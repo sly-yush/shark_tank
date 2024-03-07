@@ -19,3 +19,7 @@ body {
 	top: 50%;
 	left: 50%;
 }
+
+li {
+	margin-bottom: 10px;
+}
